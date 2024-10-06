@@ -1,16 +1,27 @@
 # Security Policy
 
-If you do damage to anybody or to someone, Its your own responsible, not mine. 
+## Introduction
+The security of the DOS Tool is of utmost importance. This document outlines the policies and procedures for reporting security vulnerabilities and how we handle them.
 
-## Supported Versions
-In this project I use windows, you can use any type of os (Operating System) Such as windows 11, kali linux etc.
+## Reporting Vulnerabilities
+If you discover a security vulnerability in this project, please follow these steps to report it:
 
+1. **Contact Us:** Send an email to mxssy.cc@gmail.com with the subject line "Security Vulnerability - [Brief Description of the Issue]."
+2. **Provide Details:** Include as much detail as possible about the vulnerability, including:
+   - A description of the vulnerability and its potential impact.
+   - Steps to reproduce the issue.
+   - Any relevant screenshots or code snippets.
 
-## Reporting a Vulnerability
+3. **Responsible Disclosure:** Please do not disclose the vulnerability publicly until we have had the opportunity to address it. We will work with you to fix the issue as quickly as possible.
 
-This file has no Vulnerability like itself but what can be vulnerability is the tool is doing.
+## Security Practices
+We are committed to maintaining a secure codebase. Our security practices include:
+- Regularly reviewing code for potential vulnerabilities.
+- Keeping dependencies up to date.
+- Encouraging the community to submit issues and pull requests.
 
-If you think this file is vulnerability just pm me on telegram
-User: https://t.me/ruby_zzxx
+## Policy Updates
+This security policy may be updated periodically. Please check this document regularly for any changes.
 
-I will update there, if there is any detection about the tool etc. 
+## Disclaimer
+This tool is intended for educational and ethical use only. The authors do not condone or support any illegal activities. Users are responsible for their actions and should ensure compliance with all applicable laws and regulations.
