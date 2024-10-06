@@ -17,5 +17,8 @@ To install Attack.py, follow these steps:
    git clone https://github.com/immassy-afk/attack.py.git
 
 2. Navigate to the project directory:
-cd attack.py
+cd C:\Your\Path\
+python attack.py
+
+# C:\Your\Path\ = Where the file is located.
 
